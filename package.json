@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "nextjs-pdf",
+  "version": "1.0.0",
+  "description": "Generates PDF files with Next.js router",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "11.0.1",
+    "playwright": "^1.12.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wezom-Playground/nextjs-pdf.git"
+  },
+  "keywords": [],
+  "author": "Oleg Dutchenko <dutchenko.o.dev@gmaul.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Wezom-Playground/nextjs-pdf/issues"
+  },
+  "homepage": "https://github.com/Wezom-Playground/nextjs-pdf#readme"
+}
